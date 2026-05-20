@@ -17,9 +17,9 @@ I enjoy learning step by step and improving my skills through hands-on practice.
 
 ## 🛠️ Skills (Growing)
 
-- **Languages:** Python, JavaScript, C++ 
+- **Languages:** C++, Python, JavaScript 
 - **Frontend:** HTML, CSS  
-- **Backend:** Flask, Node.js (learning)  
+- **Backend:** Flask, Node.js, Express 
 - **Database:** SQLite, MYSQL
 - **Fundamentals:** DSA basics, OOP  
 - **Tools:** Git, GitHub, VS Code  
