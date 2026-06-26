@@ -7,7 +7,7 @@ I enjoy learning step by step and improving my skills through hands-on practice.
 
 ## 🌱 What I'm Learning
 
-- Web development (HTML, CSS, JavaScript)
+- Mern Stack
 - Python programming  
 - Data Structures & Algorithms  
 - Basics of Data Science and AI  
@@ -20,7 +20,7 @@ I enjoy learning step by step and improving my skills through hands-on practice.
 - **Languages:** C++, Python, JavaScript 
 - **Frontend:** HTML, CSS  
 - **Backend:** Flask, Node.js, Express 
-- **Database:** SQLite, MYSQL
+- **Database:** SQLite, MYSQL, Mongodb
 - **Fundamentals:** DSA basics, OOP  
 - **Tools:** Git, GitHub, VS Code  
 
