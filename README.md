@@ -18,7 +18,7 @@ I enjoy learning step by step and improving my skills through hands-on practice.
 ## 🛠️ Skills (Growing)
 
 - **Languages:** C++, Python, JavaScript 
-- **Frontend:** HTML, CSS  
+- **Frontend:** HTML, CSS, React
 - **Backend:** Flask, Node.js, Express 
 - **Database:** SQLite, MYSQL, Mongodb
 - **Fundamentals:** DSA basics, OOP  
