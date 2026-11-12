@@ -9,7 +9,6 @@ I enjoy learning step by step and improving my skills through hands-on practice.
 
 - Mern Stack
 - Python programming  
-- Data Structures & Algorithms  
 - Basics of Data Science and AI  
 - Backend development (Flask, Node.js)
 
@@ -17,11 +16,11 @@ I enjoy learning step by step and improving my skills through hands-on practice.
 
 ## 🛠️ Skills (Growing)
 
-- **Languages:** C++, Python, JavaScript 
+- **Languages:** Python, JavaScript 
 - **Frontend:** HTML, CSS, React
 - **Backend:** Flask, Node.js, Express 
 - **Database:** SQLite, MYSQL, Mongodb
-- **Fundamentals:** DSA basics, OOP  
+- **Fundamentals:** OOP  
 - **Tools:** Git, GitHub, VS Code  
 
 ---
